@@ -1,0 +1,3 @@
+# First Name, Last Name, Favorite Number, Estimated Price of 1 Bitcoin on Dec 31 2018, Cats or Dogs, First Language, Last Language, Favorite Meal, Favorite Book, In What Year Will the AI Singularity Happen, Last Book, Favorite Dessert, Favorite Movie
+
+Josh, Park, 1, 40000, Dogs, English, French, Sushi, The Intelligent Investor, My year :), How the Mind works Steven Pinker, Lava Cake, Interstellar

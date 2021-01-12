@@ -1,0 +1,2 @@
+# First Name, Last Name, Favorite Number, Estimated Price of 1 Bitcoin on Dec 31 2018, Cats or Dogs, First Language, Last Language, Favorite Meal, Favorite Book, In What Year Will the AI Singularity Happen, Last Book, Favorite Dessert, Favorite Movie
+Jackson, Foellmer, 2, 38000, Both, Babytalk, JavaScript, General Chicken Poutine, Hitchhikers Guide to the Galaxy, 2019, Horton Hears A Who, Chocolate chip cookies, School of Rock

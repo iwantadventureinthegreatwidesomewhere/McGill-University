@@ -1,0 +1,28 @@
+Initializing.
+This process will sort the letter h.
+This process will sort the letter x.
+This process will sort the letter d.
+This process will sort the letter t.
+This process will sort the letter a.
+This process will sort the letter q.
+Sorting complete!
+This process will sort the letter p.
+This process will sort the letter c.
+This process will sort the letter s.
+This process will sort the letter l.
+This process will sort the letter m.
+This process will sort the letter i.
+This process will sort the letter y.
+This process will sort the letter f.
+This process will sort the letter v.
+This process will sort the letter o.
+This process will sort the letter g.
+This process will sort the letter w.
+This process will sort the letter e.
+This process will sort the letter u.
+This process will sort the letter b.
+This process will sort the letter r.
+This process will sort the letter k.
+This process will sort the letter j.
+This process will sort the letter z.
+This process will sort the letter n.

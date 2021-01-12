@@ -1,0 +1,2 @@
+echo # First Name, Last Name, Favorite Number, Estimated Price of 1 Bitcoin on Dec 31 2018, Cats or Dogs, First Language, Last Language, Favorite Meal, Favorite Book, In What Year Will the AI Singularity Happen, Last Book, Favorite Dessert, Favorite Movie
+John, Smith, 7, 1000, Cats, English, French, Chinese, Principles, 2100, Zero to One, Ice Cream, Social Network

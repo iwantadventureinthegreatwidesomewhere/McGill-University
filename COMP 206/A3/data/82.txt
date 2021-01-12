@@ -1,0 +1,2 @@
+# First Name, Last Name, Favorite Number, Estimated Price of 1 Bitcoin on Dec 31 2018, Cats or Dogs, First Language, Last Language, Favorite Meal, Favorite Book, In What Year Will the AI Singularity Happen, Last Book, Favorite Dessert, Favorite Movie
+Elifsu Idil, Ates, 3, 20000, Dogs, Turkish, Java, tacos, The perks of being a wallflower, 2150, 50 psychological classics, any desert that has chocolate, Jobs

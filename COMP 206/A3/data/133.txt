@@ -1,0 +1,3 @@
+# First Name, Last Name, Favorite Number, Estimated Price of 1 Bitcoin on Dec 31 2018, Cats or Dogs, First Language, Last Language, Favorite Meal, Favorite Book, In What Year Will the AI Singularity Happen, Last Book, Favorite Dessert, Favorite Movie
+
+# Chuanxi,Zheng,6,0,None,Mandarin,Spanish,Noodles,The Notebook,2200,Call me by your name, ice cream, call me by your name
