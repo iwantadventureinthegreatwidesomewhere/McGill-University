@@ -3,8 +3,6 @@
 Programming in C, use of system calls and libraries, debugging and testing of code; use of developmental tools like make, version control systems.
 ## COMP 250 - Introduction to Computer Science
 Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance.
-## COMP 251 - Algorithms and Data Structures
-Algorithm design and analysis, Graph algorithms, greedy algorithms, data structures, dynamic programming, maximum flows.
 ## COMP 310 - Operating Systems
 Control and scheduling of large information processing systems. Operating system software - resource allocation, dispatching, processors, access methods, job control languages, main storage management. Batch processing, multiprogramming, multiprocessing, time sharing.
 ## COMP 409 - Concurrent Programming
